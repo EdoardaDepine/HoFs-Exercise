@@ -11,4 +11,4 @@ function filterByGender(gender) {
     }
 }
 
-console.log(filterByGender("F"));
+console.log(filterByGender());
